@@ -1,0 +1,2 @@
+world population data analysis
+This project presents a comprehensive analysis of world population data, exploring global trends, growth patterns, and regional differences over time. Using Python and tools like Pandas and Matplotlib, the analysis provides visualizations and insights based on datasets from reliable sources such as the World Bank and the United Nations. The report includes data-driven observations on population growth, density, and distribution, offering a clear view of how the world’s population has evolved and where it is heading.
